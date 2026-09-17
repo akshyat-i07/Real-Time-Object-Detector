@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+logs/
+outputs/annotated/*
+outputs/reports/*
+!outputs/annotated/.gitkeep
+!outputs/reports/.gitkeep
+*.pt
+.pytest_cache/
